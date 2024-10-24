@@ -1,18 +1,6 @@
-# group_escape
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # ChatEscape
-# ChatEscape
+This is a class project for the mobile development class.
+The app allows users to plan a vacation together, without getting stuck in the "group-stage phase".
+
+It includes services like Google firestore, authentication, and cloud functions.
+
