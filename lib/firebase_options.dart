@@ -41,49 +41,23 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDidTGQTmJHFox4YuI_fkShz4BypIVg0NA',
-    appId: '1:638295252137:web:cd33c36c94af3d83561db8',
-    messagingSenderId: '638295252137',
-    projectId: 'groupescape-7b6a4',
-    authDomain: 'groupescape-7b6a4.firebaseapp.com',
-    storageBucket: 'groupescape-7b6a4.appspot.com',
-    measurementId: 'G-EQM97Q1DCM',
+    ...
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBlyFyfbyFdKjZWbSqJD1koCQxrP1l-ofM',
-    appId: '1:638295252137:android:089498855b9b7d5f561db8',
-    messagingSenderId: '638295252137',
-    projectId: 'groupescape-7b6a4',
-    storageBucket: 'groupescape-7b6a4.appspot.com',
+    ...
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC8nel-2cFZW2CXthibyQ3pgQoVj_c4ekY',
-    appId: '1:638295252137:ios:0485b3f91d87675e561db8',
-    messagingSenderId: '638295252137',
-    projectId: 'groupescape-7b6a4',
-    storageBucket: 'groupescape-7b6a4.appspot.com',
-    iosBundleId: 'com.example.groupEscape',
+    ...
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyC8nel-2cFZW2CXthibyQ3pgQoVj_c4ekY',
-    appId: '1:638295252137:ios:0485b3f91d87675e561db8',
-    messagingSenderId: '638295252137',
-    projectId: 'groupescape-7b6a4',
-    storageBucket: 'groupescape-7b6a4.appspot.com',
-    iosBundleId: 'com.example.groupEscape',
+    ...
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDidTGQTmJHFox4YuI_fkShz4BypIVg0NA',
-    appId: '1:638295252137:web:7cd2babe5a71296d561db8',
-    messagingSenderId: '638295252137',
-    projectId: 'groupescape-7b6a4',
-    authDomain: 'groupescape-7b6a4.firebaseapp.com',
-    storageBucket: 'groupescape-7b6a4.appspot.com',
-    measurementId: 'G-PHYVB6YCP0',
+    ...
   );
 
 }
